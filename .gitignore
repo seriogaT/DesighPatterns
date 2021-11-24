@@ -1,0 +1,15 @@
+/.idea
+/.settings
+/.project
+/.classpath
+**/*.iml
+*/.logcat.log
+*/.log
+**/target/**
+**/test-output/**
+.idea/workspace.xml
+.idea/vcs.xml
+**/src/test/resources/DataBaseFiles/SlowQueries/*.txt
+/**/allure-results/**
+!/**/allure-results/environment.properties
+**/logFile.log
